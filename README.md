@@ -51,27 +51,4 @@ Data Accuracy: Ensuring real-time and accurate data collection from devices, esp
 
 Real-Time Processing: The system’s ability to make real-time adjustments while maintaining low latency was crucial, requiring careful optimization of both software and hardware components.
 
-Installation
-Clone the repository:
-
-bash
-Copy
-git clone https://github.com/yourusername/Universal-Smart-Battery-Optimization.git
-Install dependencies (Python, libraries, etc.):
-
-bash
-Copy
-pip install -r requirements.txt
-Set up the hardware components (Arduino/Raspberry Pi) if necessary for physical charging control.
-
-Run the main application:
-
-bash
-Copy
-python main.py
-Contributing
-We welcome contributions! Feel free to fork the repository, submit issues, and create pull requests. Please make sure to follow the coding standards and provide detailed descriptions of any changes made.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
